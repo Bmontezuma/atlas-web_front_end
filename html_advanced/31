@@ -36,56 +36,29 @@
         </section>
         <section id="latest_news">
             <!-- Your latest news section content here -->
-        </section>
-        <section id="testimonials">
             <div>
-                <header>
-                    <h2>Testimonials</h2>
-                    <p>We are more than a digital company</p>
-                </header>
-                <div>
-                    <article>
-                        <blockquote>
-                            <p>I am completely blown away. Thanks to Techium, we've just launched our 5th website!</p>
-                            <cite>Yuri Y.</cite>
-                        </blockquote>
-                    </article>
-                    <article>
-                        <blockquote>
-                            <p>Thank you so much for your help. Techium company is awesome!</p>
-                            <cite>Dorrie S.</cite>
-                        </blockquote>
-                    </article>
-                    <article>
-                        <blockquote>
-                            <p>I love your system. Definitely worth the investment. I'd be lost without Techium company.</p>
-                            <cite>Sven H.</cite>
-                        </blockquote>
-                    </article>
-                </div>
-            </div>
-        </section>
-        <!-- Contact form section -->
-        <section id="contact">
-            <div>
-                <header>
-                    <h2>Contact Us</h2>
-                    <p>Get in touch with us</p>
-                </header>
-                <form action="submit.php" method="POST">
-                    <label for="name">Name:</label><br>
-                    <input type="text" id="name" name="name"><br>
-                    <label for="email">Email:</label><br>
-                    <input type="email" id="email" name="email"><br>
-                    <label for="message">Message:</label><br>
-                    <textarea id="message" name="message" rows="4" cols="50"></textarea><br>
-                    <input type="submit" value="Submit">
-                </form>
+                <article>
+                    <p>I am completely blown away. Thanks to Techium, we've just launched our 5th website!</p>
+                    <cite>Yuri Y.</cite>
+                    <small>By Kelly D.</small>
+                </article>
+                <article>
+                    <p>Thank you so much for your help. Techium company is awesome!</p>
+                    <cite>Dorrie S.</cite>
+                    <small>By William A.</small>
+                </article>
+                <article>
+                    <p>I love your system. Definitely worth the investment. I'd be lost without Techium company.</p>
+                    <cite>Sven H.</cite>
+                    <small>By Frances J.</small>
+                </article>
             </div>
         </section>
     </main>
     <footer>
         <div>
+            234 Washington Street<br>
+            Urbana, Illinois
             <!-- Links to social media -->
             <a href="https://www.facebook.com/HolbertonSchool/">Facebook</a>
             <a href="https://twitter.com/holbertonschool">Twitter</a>
